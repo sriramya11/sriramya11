@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sriramya11
+- 👀 I’m interested in python fullstack devlopment
+- 🌱 I’m currently learning fullstack
