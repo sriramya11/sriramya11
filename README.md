@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm SRIRAMYA EELI</h1>
+<h1 align="center">Hi 👋, I'm SRIRAMYA EELI</h1>
 <h3 align="center">A passionate undergraduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sriramya11&label=Profile%20views&color=0e75b6&style=flat" alt="sriramya11" /> </p>
