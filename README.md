@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm SRIRAMYA EELI</h1>
-<h3 align="center">A passionate undergraduate</h3>
+<h3 align="center">A passionate and aspiring developer from india </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sriramya11&label=Profile%20views&color=0e75b6&style=flat" alt="sriramya11" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sriramya11" alt="sriramya11" /></a> </p>
 
-- 🌱 I’m currently learning **django ,reactjs**
+- 🌱 I’m currently learning **FULL STACK TECHNOLOGY **
 
 - 💬 Ask me about **c,python ,java,sql,html,css,numpy, pandas**
 
